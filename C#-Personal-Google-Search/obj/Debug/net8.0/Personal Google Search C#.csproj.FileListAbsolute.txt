@@ -1,0 +1,25 @@
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Personal Google Search C#.exe
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Personal Google Search C#.deps.json
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Personal Google Search C#.runtimeconfig.json
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Personal Google Search C#.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Personal Google Search C#.pdb
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\bin\Debug\net8.0\PuppeteerSharp.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.csproj.AssemblyReference.cache
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.AssemblyInfoInputs.cache
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.AssemblyInfo.cs
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.csproj.CoreCompileInputs.cache
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.sourcelink.json
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal.82BFB67B.Up2Date
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\refint\Personal Google Search C#.dll
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.pdb
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\Personal Google Search C#.genruntimeconfig.cache
+C:\Users\TannerM\source\repos\Extra-Credit-Projects\C#-Personal-Google-Search\obj\Debug\net8.0\ref\Personal Google Search C#.dll
